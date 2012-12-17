@@ -1,3 +1,5 @@
 salut,
 ceci est un test.
 Un jour je me suis dit que j'allais créer ce fichier.
+
+Jour 2 Pourquoi j'ai gaché ma vie?
